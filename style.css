@@ -1,0 +1,28 @@
+h2{
+font-size: 25px;
+text-align: left;
+color: #5c6bc0
+}
+
+h1{
+font-size: 30px;
+text-align: center;
+color: #2980b9
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Borel, cursive;
+}
+
+body {
+background-color: #f06292;
+font-family: 'Borel', cursive;
+color: #fafafa}
+
+.image-centree {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px
